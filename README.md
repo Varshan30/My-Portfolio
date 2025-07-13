@@ -1,5 +1,7 @@
 Welcome to my portfolio! This repository showcases a collection of my personal and academic projects, covering domains like Artificial Intelligence, Web Development, Computer Vision, and Edge Computing. Each project reflects my passion for solving real-world problems using modern technologies and frameworks.
 
+https://srivarshanportfolio.netlify.app/
+
 🔍 Key Highlights:
 
 AI-powered applications (CCTV Forensics)
