@@ -2,7 +2,7 @@ Welcome to my portfolio! This repository showcases a collection of my personal a
 
 🔍 Key Highlights:
 
-AI-powered applications (Face Recognition, CCTV Forensics, Nutrition Systems)
+AI-powered applications (CCTV Forensics)
 
 Full-stack web applications (Flask, React, MySQL)
 
